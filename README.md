@@ -1,7 +1,7 @@
-### Hi! 👋
+# Hi! 👋
 
 ## My name is Gatis and I'm aspiring web developer.
-# I'm also interested in machine learning and game development.
+### I'm also interested in machine learning and game development.
 
 - 🔭 I’m currently working on modern ecommerce site for local souvenir shop.
 - 🌱 I’m currently learning advanced React+Typescript topics and helpful React related libraries.
