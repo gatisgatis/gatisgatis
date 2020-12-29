@@ -2,7 +2,7 @@
 
 ## My name is Gatis and I'm aspiring web developer.
 
-## I consider myself good at HTML, CSS, JS, TS, React, Redux, Every Other Tech (soon) 
+### I consider myself good at HTML, CSS, JS, TS, React, Redux, Every Other Tech (soon) 
 ### I'm also interested in machine learning and game development.
 
 - 🔭 I’m currently working on modern ecommerce site for local souvenir shop.
