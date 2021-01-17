@@ -6,7 +6,7 @@
 ### I'm also interested in machine learning and game development.
 
 - 🔭 I’m currently working on modern ecommerce site for local souvenir shop (React,TS)
-- 🌱 I’m currently learning advanced React+Typescript topics and helpful React related libraries and modern Vue while making a lot of small experimental projects.
+- 🌱 I’m currently learning advanced React+Typescript topics and Angular basics and modern Vue while making a lot of small experimental projects.
 
 - 📫 How to reach me: https://www.linkedin.com/in/gatis-meikulis/
 
