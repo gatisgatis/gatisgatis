@@ -1,8 +1,8 @@
 # Hi! 👋
 
-## My name is Gatis and I'm web developer.
+## My name is Gatis and I'm software developer
 
-### I consider myself good at HTML, CSS, JS, TS, React, Vue, Redux, TDD, Every Other Tech (soon) 
+### I consider myself good at HTML, CSS, JS, TS, React, Next, Scala, Cats, Cats-effect
 
 - 🌱 I’m currently learning advanced React+Typescript topics and functional programming with Scala
 
